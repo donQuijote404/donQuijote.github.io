@@ -1,0 +1,14 @@
+/*  */
+html{
+  background-color: pink;
+}
+#game
+{
+  margin: auto;
+  display: flex;
+}
+#canvas
+{
+  margin: auto;
+  width: 50vw;
+}
